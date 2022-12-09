@@ -1,6 +1,9 @@
-# Satellite Catalog Jupyter Playground
+# Satellite Related Data Playground
 
-This is a collection of me visualizing data which you can find from celestrak.org
+This is a collection of me visualizing data from various public satellite related databases. These include:
+
+- data from celestrak.org
+- M-Lab data (https://www.measurementlab.net/data/)
 
 ## Usage
 

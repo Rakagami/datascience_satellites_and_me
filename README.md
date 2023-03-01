@@ -32,10 +32,13 @@ This is a collection of notebooks and python code related to Satellites.
 
 ## Quick Start
 
+Requirements: Python 3.10 already installed
+
 ```bash
+cd /path/to/project
 python3 -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
 pip install -r ./requirements.txt
-jupyter-lab
+./run.sh
 ```

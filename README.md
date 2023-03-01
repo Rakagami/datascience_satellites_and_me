@@ -2,9 +2,6 @@
 
 This is a collection of notebooks and python code related to Satellites.
 
-- data from celestrak.org
-- M-Lab data (https://www.measurementlab.net/data/)
-
 ## Overview
 
 - **Satellite Orbit Display**
@@ -14,6 +11,7 @@ This is a collection of notebooks and python code related to Satellites.
 	- TODO
 
 - **M-Lab Data Evaluation**
+	- see [M-Lab](https://www.measurementlab.net/data/)
 	- `mlab.ipynb`
 
 - **SatNOG Scraping & Evaluation**
@@ -32,7 +30,9 @@ This is a collection of notebooks and python code related to Satellites.
 
 ## Quick Start
 
-Requirements: Python 3.10 already installed
+System Requirements:
+- Python 3.10
+- libgeos-dev (for cartopy)
 
 ```bash
 cd /path/to/project

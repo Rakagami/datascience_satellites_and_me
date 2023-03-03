@@ -1,18 +1,44 @@
-# Satellite Related Data Playground
+# Data Science, Satellites, and Me
 
-This is a collection of me visualizing data from various public satellite related databases. These include:
+This is a collection of notebooks and python code related to Satellites.
 
-- data from celestrak.org
-- M-Lab data (https://www.measurementlab.net/data/)
+## Overview
 
-## Usage
+- **Satellite Orbit Display**
+	- `orbit_display.ipynb`
 
-First, use the downloader script before using the notebooks
+- **Satellite Coverage Analysis**
+	- TODO
+
+- **M-Lab Data Evaluation**
+	- see [M-Lab](https://www.measurementlab.net/data/)
+	- `mlab.ipynb`
+
+- **SatNOG Scraping & Evaluation**
+	- `satnogs.ipynb`
+
+- **fcc.report Scraping & Evaluation**
+	- `scrape_fcc.ipynb`
+
+- **Gunter's Space Page Scraping & Evaluation**
+	- `gsp_scraper.ipynb`
+
+- **Satellite Catalogue (Satcat), Celestrak Constellation Data Evaluation**
+	- `notebook.ipynb`
+	- `constellations.ipynb`
+	- `constellations_preview.ipynb`
+
+## Quick Start
+
+System Requirements:
+- Python 3.10
+- libgeos-dev (for cartopy)
 
 ```bash
-bash download_satcat.sh
+cd /path/to/project
+python3 -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r ./requirements.txt
+./run.sh
 ```
-
-## Setup
-
-TODO: create a requirements.txt

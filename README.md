@@ -8,7 +8,7 @@ This is a collection of notebooks and python code related to Satellites.
 	- `orbit_display.ipynb`
 
 - **Satellite Coverage Analysis**
-	- TODO
+	- `coverage_analysis.ipynb`
 
 - **M-Lab Data Evaluation**
 	- see [M-Lab](https://www.measurementlab.net/data/)

@@ -10,23 +10,27 @@ This is a collection of notebooks and python code related to Satellites.
 - **Satellite Coverage Analysis**
 	- `coverage_analysis.ipynb`
 
-- **M-Lab Data Evaluation**
-	- see [M-Lab](https://www.measurementlab.net/data/)
-	- `mlab.ipynb`
+- **General Maps related notebook**
+    - `maps.ipynb`
 
-- **SatNOG Scraping & Evaluation**
-	- `satnogs.ipynb`
-
-- **fcc.report Scraping & Evaluation**
-	- `scrape_fcc.ipynb`
-
-- **Gunter's Space Page Scraping & Evaluation**
-	- `gsp_scraper.ipynb`
+- **Scraping Collection**
+    - **SatNOG Scraping & Evaluation**
+    	- `satnogs.ipynb`
+    
+    - **fcc.report Scraping & Evaluation**
+    	- `scrape_fcc.ipynb`
+    
+    - **Gunter's Space Page Scraping & Evaluation**
+    	- `gsp_scraper.ipynb`
 
 - **Satellite Catalogue (Satcat), Celestrak Constellation Data Evaluation**
 	- `notebook.ipynb`
 	- `constellations.ipynb`
 	- `constellations_preview.ipynb`
+
+- **M-Lab Data Evaluation**
+	- see [M-Lab](https://www.measurementlab.net/data/)
+	- `mlab.ipynb`
 
 ## Quick Start
 

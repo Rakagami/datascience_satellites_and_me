@@ -1,0 +1,915 @@
+,CountryName,MNOName,Rank,Virtual
+0,Afghanistan,MTN,1,False
+1,Afghanistan,Roshan,2,False
+2,Afghanistan,Etisalat Afghanistan,3,False
+3,Afghanistan,Afghan Wireless,4,False
+4,Afghanistan,Salaam,5,False
+5,American Samoa,Blue Sky Communications,1,False
+6,American Samoa,American Samoa Telecommunications Authority (ASTCA),2,False
+7,Australia,Telstra,1,False
+8,Australia,Optus,2,False
+9,Australia,Vodafone AU,3,False
+10,Bangladesh,"Grameenphone
+",1,False
+11,Bangladesh,"Robi
+",2,False
+12,Bangladesh,"Banglalink
+",3,False
+13,Bangladesh,"Teletalk
+",4,False
+14,Bhutan,B-Mobile,1,False
+15,Bhutan,TashiCell,2,False
+16,Bougainville,PNG dataco,1,False
+17,Brunei Darussalam,Datastream Technology Sdn Bhd (DST),1,False
+18,Brunei Darussalam,Progresif Cellular Sdn Bhd (formerly B-mobile),2,False
+19,Cambodia,Metfone,1,False
+20,Cambodia,Smart,2,False
+21,Cambodia,Cellcard,3,False
+22,Cook Islands,Vodafone(formerly Bluesky),1,False
+23,Fiji,Vodafone,1,False
+24,Fiji,Digicel,2,False
+25,French Polynesia,VINI,1,False
+26,French Polynesia,"Vodafone
+",2,False
+27,French Polynesia,VITI,3,False
+28,Guam,IT&E and Iconnect,1,False
+29,Guam,Docomo Pacific,2,False
+30,Guam,GTA,3,False
+31,Hong Kong,CMHK(China Mobile Hong Kong),1,False
+32,Hong Kong,"HKT(including csl, 1O1O, Club SIM and SUN Mobile)",2,False
+33,Hong Kong,3 Hong Kong,3,False
+34,Hong Kong,SmarTone,4,False
+35,Hong Kong,"HKBN(4G using CMHK or SmarTone;5G using 3 Hong Kong)
+","1
+",True
+36,Hong Kong,"Birdie (Using SmarTone)
+","2
+",True
+37,Hong Kong,"Mobile Duck (Using CMHK)
+","3
+",True
+38,Hong Kong,"MO+ (Using 3 Hong Kong)
+","4
+",True
+39,Hong Kong,"ValueGB (Using SmarTone)
+","5
+",True
+40,Hong Kong,"MB (Using CMHK)
+","6
+",True
+41,Hong Kong,"IMC (Using HKT)
+","7
+",True
+42,Hong Kong,"China Unicom (Using 3 Hong Kong)
+","8
+",True
+43,Hong Kong,"CTExcel (Using HKT)
+","9
+",True
+44,India,"
+Jio
+
+",1,False
+45,India,"
+Airtel
+
+",2,False
+46,India,"
+Vi
+
+",3,False
+47,India,"
+BSNL
+
+",4,False
+48,India,"
+MTNL(Areas: Mumbai, Delhi)
+
+",5,False
+49,Indonesia,Telkomsel(Include previous TelkomFlexi network),1,False
+50,Indonesia,"Indosat Ooredoo Hutchison(Include previous Satelindo, Indosat-M3, 3 and StarOne network)
+",2,False
+51,Indonesia,XL Axiata(Include previous Axis network),3,False
+52,Indonesia,"Smartfren(Include previous Esia and Mobile-8 network)
+",4,False
+53,Indonesia,by.U (using Telkomsel),1,True
+54,Indonesia,Live.On (using XL Axiata),3,True
+55,Indonesia,Power Up (using Smartfren),4,True
+56,Japan,NTT Docomo,1,False
+57,Japan,au,2,False
+58,Japan,SoftBank Corp.& Ymobile,3,False
+59,Japan,Rakuten Mobile[61],4,False
+60,Japan,Disney Mobile (using SoftBank Mobile),1,True
+61,Japan,b-mobile(using NTT Docomo),2,True
+62,Japan,"IIJmio
+",3,True
+63,Kazakhstan,Beeline (including izi),1,False
+64,Kazakhstan,Kcell (including activ),2,False
+65,Kazakhstan,Tele2 Kazakhstan (including Altel),3,False
+66,Kyrgyzstan,MegaCom,1,False
+67,Kyrgyzstan,Beeline,2,False
+68,Kyrgyzstan,Fonex,3,False
+69,Kyrgyzstan,O!,4,False
+70,Kyrgyzstan,Katel,5,False
+71,Kyrgyzstan,Nexi,6,False
+72,Kyrgyzstan,Sapat Mobile,7,False
+73,Laos,Unitel,1,False
+74,Laos,LaoTelecom,2,False
+75,Laos,TPLUS,3,False
+76,Laos,ETL,4,False
+77,Macau,CTM,1,False
+78,Macau,China Telecom,2,False
+79,Macau,3 Macau,3,False
+80,Macau,SmarTone,4,False
+81,Malaysia,CelcomDigi,1,False
+82,Malaysia,Celcom,-,False
+83,Malaysia,Maxis,2,False
+84,Malaysia,"U Mobile
+",3,False
+85,Malaysia,Yes 4G,4,False
+86,Malaysia,"Unifi Mobile
+",5,False
+87,Malaysia,Redtone,6,False
+88,Malaysia,ALTEL,7,False
+89,Malaysia,"Digital Nasional Berhad (DNB)
+(Malaysia 5G Single Wholesale Network)
+
+",8,False
+90,Malaysia,XOX(uses Celcom),1,True
+91,Malaysia,TuneTalk(uses Celcom),2,True
+92,Malaysia,redONE(uses Celcom),3,True
+93,Malaysia,Merchantrade(uses Celcom),4,True
+94,Malaysia,SpeakOut(uses DiGi),5,True
+95,Malaysia,MY Evolution(uses DiGi),6,True
+96,Malaysia,Telin Malaysia (Kartu As)(uses U Mobile),7,True
+97,Malaysia,mCalls(uses DiGi),8,True
+98,Maldives,Dhiraagu,1,False
+99,Maldives,Ooredoo Maldives,2,False
+100,Marshall Islands,NTA,1,False
+101,Mongolia,Mobicom,1,False
+102,Mongolia,Unitel,2,False
+103,Mongolia,Skytel,3,False
+104,Mongolia,G-Mobile,4,False
+105,Myanmar,MPT,1,False
+106,Myanmar,ATOM (Formerly Telenor),2,False
+107,Myanmar,Ooredoo,3,False
+108,Myanmar,Mytel,4,False
+109,Nauru,Digicel,1,False
+110,Nepal,Nepal Telecom,1,False
+111,Nepal,Ncell,2,False
+112,Nepal,SmartCell,3,False
+113,New Caledonia,Mobilis,1,False
+114,New Zealand,"One NZ(formerly Vodafone NZ, BellSouth)",1,False
+115,New Zealand,Spark(formerly Telecom),2,False
+116,New Zealand,2degrees,3,False
+117,New Zealand,Compass Mobile(using Spark)[121],?,True
+118,New Zealand,Orcon Mobile(using Spark),?,True
+119,New Zealand,Slingshot Mobile(using Spark),?,True
+120,New Zealand,Skinny(using Spark),?,True
+121,New Zealand,"Warehouse Mobile[122](using 2degrees)
+",?,True
+122,Niue,Telecom Niue,1,False
+123,Norfolk Island,Norfolk Telecom,1,False
+124,North Korea,Koryolink,1,False
+125,Northern Mariana Islands,Docomo Pacific,1,False
+126,Northern Mariana Islands,IT&E,2,False
+127,Palau,PNCC (PalauCel),1,False
+128,Papua New Guinea,Digicel,1,False
+129,Papua New Guinea,BMobile,2,False
+130,Papua New Guinea,Telikom PNG,3,False
+131,Philippines,Globe Telecom,1,False
+132,Philippines,Smart Communications,2,False
+133,Philippines,Dito Telecommunity,3,False
+134,Philippines,TNT(using Smart),1,True
+135,Philippines,TM(using Globe),2,True
+136,Philippines,GOMO(using Globe),3,True
+137,Samoa,Vodafone Samoa(formerly Bluesky Samoa),1,False
+138,Samoa,Digicel,2,False
+139,Singapore,Singtel Mobile with a digital sub-brand GOMO and heya,1,False
+140,Singapore,StarHub with a digital sub-brand giga!,2,False
+141,Singapore,M1,3,False
+142,Singapore,SIMBA (formerly TPG Mobile),4,False
+143,Singapore,GRID Communications,5,False
+144,Singapore,Circles.Life (Using M1),1,True
+145,Singapore,Zero1 (Using Singtel),2,True
+146,Singapore,MyRepublic (Using StarHub for its 5G plans; Using M1 for its 4G plans),3,True
+147,Singapore,"redONE (Using StarHub)
+","4
+",True
+148,Singapore,VIVIFI (Using Singtel),5,True
+149,Singapore,"Geenet Mobile (Using M1)
+","6
+",True
+150,Singapore,"China Mobile CMLink SG (Using Singtel)
+","7
+",True
+151,Singapore,"ZYM (Using Singtel)
+","8
+",True
+152,Singapore,"Changi Mobile (Using M1)
+","9
+",True
+153,Singapore,"Gorilla Mobile (Using M1)
+","9
+",True
+154,Solomon Islands,Our Telekom,1,False
+155,South Korea,SK Telecom,1,False
+156,South Korea,"KT(formerly olleh, KTF)",2,False
+157,South Korea,LG U+(formerly LG Telecom),3,False
+158,Sri Lanka,"Dialog(Formerly MTN Network)
+","1
+",False
+159,Sri Lanka,"SLTMobitel(Formerly Mobitel)
+","2
+",False
+160,Sri Lanka,"Hutch•Includes the previous Etisalat network.[161]
+","3
+",False
+161,Sri Lanka,"Airtel
+","4
+",False
+162,Taiwan,Chunghwa Telecom 中華電信,1,False
+163,Taiwan,Taiwan Mobile 台灣大哥大,2,False
+164,Taiwan,Far EasTone 遠傳電信,3,False
+165,Taiwan,T STAR 台灣之星,4,False
+166,Taiwan,GT 亞太電信,5,False
+167,Taiwan,"Circles.Life (Using Chunghwa)
+","1
+",True
+168,Taiwan,"Ibon Mobile (Using FarEasTone)
+","2
+",True
+169,Tajikistan,Tcell,1,False
+170,Tajikistan,Babilon-Mobile,2,False
+171,Tajikistan,ZET Mobile(Formerly Beeline),3,False
+172,Tajikistan,MegaFon,4,False
+173,Thailand,"AIS, AWN
+(Advance Info Service), (Advance Wireless Network) with a digital sub-brand GOMO by AIS (formerly NU MOBILE by AIS)
+
+",1,False
+174,Thailand,"TrueMove H
+2001-2005 (TA-Orange) or ( Orange TH)
+2005-2012
+(True Move)
+2012-now
+(True Move - H) rebrand after buy CDMA network provider on 850 mHz for the 850 mHz spectrum license's . (Hutchison CAT wireless multimedia) 
+
+",2,False
+175,Thailand,"Dtac or dtac
+(Total Access Communication a member of Telenor group)
+dtac-T
+(dtac-Turbo) or (dtac-TOT) this is the co-resellers brands with the government's mobile operators ""TOT Mobile"" (Currently NT Mobile) on 2300 mHz spectrums.
+(dtac Trinet Network) with a digital sub-brand FINN Mobile (formerly LINE Mobile TH)
+
+",3,False
+176,Thailand,"my by NT
+",4,False
+177,Thailand,"NT Mobile (formerly TOT Mobile)
+",5,False
+178,Thailand,IEC3G Buzzme (Host operator TOT),1,True
+179,Thailand,i-Kool 3G (Host operator TOT),2,True
+180,Thailand,MyWorld 3G  (Host operator CAT),3,True
+181,Thailand,Penguin  (Host operator CAT & TOT),4,True
+182,Thailand,"OPEN SIM i-mobile  (Host operator CAT)
+",5,True
+183,Thailand,"imobile-3GX  (Host operator CAT)
+",6,True
+184,Thailand,"168  (Host operator CAT)
+",7,True
+185,Thailand,"Mojo 3G (Host operator TOT)
+",8,True
+186,Thailand,Tune Talk (Host operator TOT),9,True
+187,Thailand,Feels (Host operator TOT),10,True
+188,Thailand,AJ SIM (Host operator TOT),11,True
+189,Thailand,Redone (Host operator NT Mobile (formerly TOT Mobile)),12,True
+190,Timor-Leste,Telemor,1,False
+191,Timor-Leste,Timor Telecom,2,False
+192,Timor-Leste,Telkomcel,3,False
+193,Tonga,Digicel,1,False
+194,Tonga,TCC,2,False
+195,Turkmenistan,TM CELL  (Altyn Asyr),1,False
+196,Turkmenistan,AȘTU,2,False
+197,Tuvalu,TTC,1,False
+198,Uzbekistan,UCell(Formerly Coscom),1,False
+199,Uzbekistan,Beeline,2,False
+200,Uzbekistan,Mobi.UZ(Formerly UMS),3,False
+201,Uzbekistan,Uzmobile,4,False
+202,Uzbekistan,Perfectum,5,False
+203,Vanuatu,Vodafone Vanuatu,1,False
+204,Vanuatu,Digicel,2,False
+205,Vanuatu,AIL,3,False
+206,Vanuatu,WanTok,4,False
+207,Vietnam,Viettel Mobile,1,False
+208,Vietnam,MobiFone,2,False
+209,Vietnam,Vinaphone,3,False
+210,Vietnam,Vietnamobile,4,False
+211,Vietnam,Gmobile (formerly Beeline),5,False
+0,Albania,Vodafone Albania,1,False
+1,Albania,"One AlbaniaA network using  the One Telecommunications (formerly Telekom Albania and AMC) and ALBtelecom (Formerly Eagle Mobile, Telekomi Shqiptar) Network [2]
+",2,False
+2,Andorra,Andorra Telecom  (Formerly Servei de Telecomunicacions d'Andorra),1,False
+3,Armenia,VivaCell-MTS,1,False
+4,Armenia,Team Telecom Armenia,2,False
+5,Armenia,Ucom,3,False
+6,Austria,A1,1,False
+7,Austria,"Magenta Telekom  (Formerly T-Mobile, max.mobil.)",2,False
+8,Austria,Drei•Includes the previous Orange network.,3,False
+9,Austria,"spusu
+","4
+",False
+10,Azerbaijan,Azercell,1,False
+11,Azerbaijan,Bakcell,2,False
+12,Azerbaijan,Nar,3,False
+13,Azerbaijan,Nakhtel (operating in Nakhchivan Autonomous Republic),4,False
+14,Belarus,MTS,1,False
+15,Belarus,A1(Formerly velcom),2,False
+16,Belarus,Life,3,False
+17,Belgium,Proximus  (formerly Belgacom),1,False
+18,Belgium,"Orange  (formerly Mobistar, OBE)",2,False
+19,Belgium,Base ,3,False
+20,Bosnia and Herzegovina,BH Telecom,1,False
+21,Bosnia and Herzegovina,m:tel,2,False
+22,Bosnia and Herzegovina,HT Eronet,3,False
+23,Croatia,"Hrvatski Telekom  (Formerly T-Mobile, HTmobile)",1,False
+24,Croatia,"A1  (Formerly Vip, Vipnet)",2,False
+25,Croatia,"Telemach(Formerly Tele2)
+",3,False
+26,Cyprus,"Epic  (Formerly MTN, Areeba)",1,False
+27,Cyprus,Cytamobile,2,False
+28,Cyprus,PrimeTel,3,False
+29,Cyprus,Kuzey Kıbrıs Turkcell,1,False
+30,Cyprus,Telsim Vodafone,2,False
+31,Czech Republic,T-Mobile  (Formerly Paegas),1,False
+32,Czech Republic,"O2  (Formerly Eurotel, Český Telecom) ",2,False
+33,Czech Republic,Vodafone  (Formerly Oskar),3,False
+34,Denmark,TDC,1,False
+35,Denmark,Telenor  (Formerly Sonofon),2,False
+36,Denmark,Telia,3,False
+37,Denmark,3,4,False
+38,Estonia,"Telia
+(Formerly EMT)
+
+",1,False
+39,Estonia,Elisa  (Formerly Radiolinja),2,False
+40,Estonia,"Tele2
+(Formerly Q-GSM)
+
+",3,False
+41,Faroe Islands,Føroya Tele,1,False
+42,Faroe Islands,"Hey  (Formerly Vodafone, Kall)",2,False
+43,Faroe Islands,Tosa,3,False
+44,Finland,Elisa  (Formerly Radiolinja),1,False
+45,Finland,"Telia  (Formerly Telecom Finland, Sonera)",2,False
+46,Finland,DNA,3,False
+47,Finland,Ålcom  (Formerly ÅMT / Ålands Mobiltelefon),4,False
+48,France,Orange  (Formerly Itineris),1,False
+49,France,SFR  (Formerly Prixtel),2,False
+50,France,Bouygues Telecom,3,False
+51,France,Free Mobile,4,False
+52,Georgia,Magticom,1,False
+53,Georgia,Silknet  (Formerly Geocell),2,False
+54,Georgia,Cellfie (Formerly Beeline),3,False
+55,Germany,"Telekom  (Formerly D1 DeTeMobil, T-Mobile)",1,False
+56,Germany,O2  (Formerly VIAG Interkom) • Includes the previous E-Plus network.,2,False
+57,Germany,"Vodafone GmbH  (known as Vodafone Deutschland),(Formerly Vodafone-D2 Mannesmann,D2 Mannesmann)",3,False
+58,Gibraltar,Gibtelecom,1,False
+59,Greece,Cosmote,1,False
+60,Greece,"Vodafone Greece(Formerly Vodafone-Panafon,Panafon) •Includes the previous Vodafone Greece network.",2,False
+61,Greece,"Nova(Formerly Telestet, TIM, WIND) •Includes the previous Nova network.",3,False
+62,Guernsey,Sure,1,False
+63,Guernsey,JT,2,False
+64,Guernsey,Airtel-Vodafone,3,False
+65,Hungary,"Telekom  (Formerly Westel, T-Mobile)",1,False
+66,Hungary,"Yettel (Formerly Telenor, Pannon)",2,False
+67,Hungary,Vodafone,3,False
+68,Hungary,Digi,4,False
+69,Iceland,Síminn(formerly Landssíminn),1,False
+70,Iceland,Nova,2,False
+71,Iceland,"Vodafone(formerly Og Vodafone, Íslandssími)",3,False
+72,Ireland,"Three•Includes the previous O2 network
+",1,False
+73,Ireland,"Vodafone(Formerly Eircell)
+",2,False
+74,Ireland,"eir(Formerly Meteor)
+",3,False
+75,Isle of Man,Manx Telecom,1,False
+76,Isle of Man,Sure,2,False
+77,Italy,"Wind Tre
+(Formerly Wind and 3)
+
+",1,False
+78,Italy,"TIM
+(Formerly SIP)
+
+",2,False
+79,Italy,"Vodafone
+(FormerlyVodafone-Omnitel ,Omnitel)
+
+",3,False
+80,Italy,"Iliad
+",4,False
+81,Italy,"Fastweb
+",5,False
+82,Jersey,JT,1,False
+83,Jersey,Sure,2,False
+84,Jersey,Airtel-Vodafone,3,False
+85,Kosovo,Vala,1,False
+86,Kosovo,Ipko,2,False
+87,Latvia,LMT,1,False
+88,Latvia,Tele2,2,False
+89,Latvia,Bite,3,False
+90,Latvia,Triatel,4,False
+91,Latvia,Xomobile,5,False
+92,Liechtenstein,FL1 [de]   (formerly Mobilkom Liechtenstein AG),1,False
+93,Liechtenstein,7acht   (formerly Orange FL),2,False
+94,Liechtenstein,Swisscom FL,3,False
+95,Lithuania,Tele2(Pildyk),1,False
+96,Lithuania,"Telia(Ezys; Telia Extra)(Formerly Omnitel, Teo LT)",2,False
+97,Lithuania,Bitė(Labas),3,False
+98,Lithuania,Mezon,4,False
+99,Luxembourg,Orange,1,False
+100,Luxembourg,Tango,2,False
+101,Luxembourg,POST,3,False
+102,Luxembourg,Luxembourg Online,4,False
+103,Malta,Epic  (Formerly Vodafone Malta and Telecell),1,False
+104,Malta,GO  (Formerly MALTACOM),2,False
+105,Malta,Melita,3,False
+106,Moldova,Orange,1,False
+107,Moldova,Moldcell,2,False
+108,Moldova,Moldtelecom,3,False
+109,Moldova,Interdnestrcom operating in Transnistria region only,4,False
+110,Monaco,Monaco Telecom,1,False
+111,Montenegro,m:tel,1,False
+112,Montenegro,Telekom,2,False
+113,Montenegro,One,3,False
+114,Netherlands,"T-Mobile (Formerly Ben)•Includes the previous Tele2 and Orange networks.
+",1,False
+115,Netherlands,KPN •Includes the previous Telfort network.,2,False
+116,Netherlands,Vodafone  (Formerly Libertel),3,False
+117,North Macedonia,"Telekom  (Formerly T-Mobile, MOBIMAK)",1,False
+118,North Macedonia,"A1 (Formerly one.Vip, Cosmofon)",2,False
+119,Norway,Telenor,1,False
+120,Norway,Telia (Formerly NetCom) •Includes the previous Tele2 network.,2,False
+121,Norway,"Ice (Formerly Ice.net)
+",3,False
+122,Poland,Orange (Formerly Idea),1,False
+123,Poland,Play,2,False
+124,Poland,Plus (Formerly Plus GSM),3,False
+125,Poland,T-Mobile (Formerly Era),4,False
+126,Portugal,MEO  (Formerly TMN),1,False
+127,Portugal,NOS  (Formerly Optimus),2,False
+128,Portugal,Vodafone  (Formerly Telecel),3,False
+129,Romania,Orange(Formerly Dialog),1,False
+130,Romania,Vodafone (Formerly Connex),2,False
+131,Romania,Digi,3,False
+132,Romania,"Telekom (Formerly Cosmorom, Cosmote) ",4,False
+133,Russia,MTS,1,False
+134,Russia,MegaFon,2,False
+135,Russia,Beeline,3,False
+136,Russia,Tele2 Russia,4,False
+137,San Marino,Telefonia Mobile Sammarinese (TMS),1,False
+138,Serbia,mts,1,False
+139,Serbia,Yettel,2,False
+140,Serbia,A1,3,False
+141,Slovakia,"Orange  (Formerly Globtel, Slovtel)",1,False
+142,Slovakia,"O2  (Formerly Telefonica, O2 Telefonica)",2,False
+143,Slovakia,"Telekom  (Formerly Eurotel, T-Mobile)",3,False
+144,Slovakia,4ka (SWAN),4,False
+145,Slovenia,Telekom Slovenije(formerly Mobitel),1,False
+146,Slovenia,A1(formerly Si.mobil),2,False
+147,Slovenia,Telemach(formerly Tušmobil),3,False
+148,Slovenia,T-2,4,False
+149,Spain,Movistar,1,False
+150,Spain,Orange  (Formerly Amena),2,False
+151,Spain,Vodafone  (Formerly Airtel),3,False
+152,Spain,"Yoigo
+",4,False
+153,Sweden,Telia,1,False
+154,Sweden,Tele2 ,2,False
+155,Sweden,Telenor  (Formerly Vodafone),3,False
+156,Sweden,Tre,4,False
+157,Switzerland,Swisscom,1,False
+158,Switzerland,Sunrise  (Formerly diAx),2,False
+159,Switzerland,Salt   (formerly Orange CH),3,False
+160,Turkey,Turkcell,1,False
+161,Turkey,Vodafone Turkiye  (Formerly Telsim),2,False
+162,Turkey,"Türk Telekom  (Formerly Avea, Aria, Aycell)",3,False
+163,Ukraine,"Kyivstar*
+(Including previous Beeline Ukraine network)
+
+",1,False
+164,Ukraine,Vodafone* (Formerly MTS Ukraine),2,False
+165,Ukraine,lifecell* (Formerly life:) ),3,False
+166,Ukraine,Intertelecom,4,False
+167,Ukraine,TriMob*,5,False
+168,Ukraine,PEOPLEnet,6,False
+169,United Kingdom,"O2
+",1,False
+170,United Kingdom,"EE
+",2,False
+171,United Kingdom,"Vodafone
+",3,False
+172,United Kingdom,Three,4,False
+0,Anguilla,Digicel,1,False
+1,Anguilla,FLOW,2,False
+2,Antigua and Barbuda,Digicel,1,False
+3,Antigua and Barbuda,FLOW,2,False
+4,Antigua and Barbuda,APUA (inet),3,False
+5,Argentina,Claro,1,False
+6,Argentina,Movistar,2,False
+7,Argentina,Personal,3,False
+8,Argentina,Tuenti[8] (using Movistar network),4,True
+9,Argentina,Nuestro[11] (using Personal network),5,True
+10,Aruba,Digicel,1,False
+11,Aruba,MIO,2,False
+12,Aruba,SetarNV,3,False
+13,Bahamas,BTC,1,False
+14,Bahamas,Aliv,2,False
+15,Barbados,FLOW,1,False
+16,Barbados,Digicel,2,False
+17,Belize,Digi[20],1,False
+18,Belize,Smart[22],2,False
+19,Bermuda,One,1,False
+20,Bermuda,Digicel,2,False
+21,Bolivia,Entel,1,False
+22,Bolivia,Tigo [es],2,False
+23,Bolivia,Viva,3,False
+24,Bonaire,Digicel(formerly TELBO[31]),1,False
+25,Bonaire,FLOW,2,False
+26,Brazil,Vivo,1,False
+27,Brazil,Claro,2,False
+28,Brazil,TIM,3,False
+29,Brazil,"Algar Telecom• Only in some areas of GO, MG, MS and SP states",4,False
+30,Brazil,Surf• Only in city of São Paulo• Operates nationally as MVNE using TIM networks,5,False
+31,British Virgin Islands,CCT[41],1,False
+32,British Virgin Islands,FLOW,2,False
+33,British Virgin Islands,Digicel,3,False
+34,Canada,RogersIncludes Fido and Chatr,1,False
+35,Canada,BellIncludes MTS and Virgin Mobile,2,False
+36,Canada,TelusIncludes Koodo and Public Mobile,3,False
+37,Canada,Freedom MobileIncludes Shaw Mobile,4,False
+38,Canada,Vidéotron,5,False
+39,Canada,SaskTel,6,False
+40,Cayman Islands,FLOW Cayman,1,False
+41,Cayman Islands,Digicel,2,False
+42,Chile,Entel,1,False
+43,Chile,"Movistar
+",2,False
+44,Chile,"WOM
+",3,False
+45,Chile,"Claro
+",4,False
+46,Chile,"VTR Móvil (using Movistar and Claro)
+",5,False
+47,Chile,"Virgin Mobile (using Movistar)
+",6,False
+48,Colombia,Claro,1,False
+49,Colombia,Movistar,2,False
+50,Colombia,Tigo,3,False
+51,Colombia,WOM,4,False
+52,Colombia,Virgin Mobile(using Movistar),5,False
+53,Colombia,Móvil Éxito[56] (using Tigo),6,False
+54,Colombia,ETB(using Tigo[57]),7,False
+55,Colombia,Flash Móvil (using Tigo),8,False
+56,Colombia,Suma Móvil  (using Tigo),9,False
+57,Costa Rica,Kölbi[62],1,False
+58,Costa Rica,Liberty,2,False
+59,Costa Rica,Claro,3,False
+60,Costa Rica,Tuyo Móvil[64](using Kölbi),4,False
+61,Costa Rica,Fullmóvil[65](using Kölbi),5,False
+62,Cuba,Cubacel[67],1,False
+63,Dominica,Digicel,1,False
+64,Dominica,FLOW,2,False
+65,Dominican Republic,Claro  (formerly CODETEL),1,False
+66,Dominican Republic,altice (formerly Orange and Tricom),2,False
+67,Dominican Republic,Viva,3,False
+68,Ecuador,Claro,1,False
+69,Ecuador,Movistar,2,False
+70,Ecuador,Cnt,3,False
+71,Ecuador,Tuenti[75] (using Movistar network),4,True
+72,El Salvador,Tigo,1,False
+73,El Salvador,Claro,2,False
+74,El Salvador,Movistar,3,False
+75,El Salvador,Digicel,4,False
+76,El Salvador,RED,5,False
+77,Falkland Islands,Sure[84],1,False
+78,Greenland,tusass   (formerly TELE Greenland) ,1,False
+79,Grenada,FLOW,1,False
+80,Grenada,Digicel,2,False
+81,Guatemala,Tigo,1,False
+82,Guatemala,Claro   (including former Movistar network) ,2,False
+83,Guyana,Digicel,1,False
+84,Guyana,gtt[99],2,False
+85,Haiti,Digicel,1,False
+86,Haiti,NATCOM[101],2,False
+87,Honduras,Tigo,1,False
+88,Honduras,Claro,2,False
+89,Honduras,HONDUTEL,3,False
+90,Jamaica,Digicel,1,False
+91,Jamaica,FLOW,2,False
+92,Mexico,Telcel,1,False
+93,Mexico,Movistar,2,False
+94,Mexico,AT&T Mexico(Includes Unefón),3,False
+95,Mexico,Red Compartida(Shared network available for MVNOs),4,False
+96,Mexico,"Virgin Mobile (using Movistar)
+","5
+",True
+97,Mexico,"QBO Cel (using Movistar)
+","6
+",True
+98,Mexico,"weex (using Movistar)
+","7
+",True
+99,Mexico,"Cierto (using Movistar)
+","8
+",True
+100,Mexico,"Maz Tiempo (using Movistar)
+","9
+",True
+101,Mexico,"Oui Móvil (using Telcel)
+","10
+",True
+102,Mexico,"Flash Mobile (using Movistar)
+","11
+",True
+103,Montserrat,FLOW,1,False
+104,Montserrat,Digicel,2,False
+105,Nicaragua,Claro(formerly Enitel),1,False
+106,Nicaragua,Tigo,2,False
+107,Panama,+móvil,1,False
+108,Panama,Tigo,2,False
+109,Panama,Claro,3,False
+110,Panama,Digicel,4,False
+111,Paraguay,Tigo [es],1,False
+112,Paraguay,Personal [es],2,False
+113,Paraguay,Claro [es],3,False
+114,Paraguay,VOX [es],4,False
+115,Peru,Movistar,1,False
+116,Peru,Claro(Formerly TIM),2,False
+117,Peru,Entel(Formerly Nextel),3,False
+118,Peru,Bitel [es](Formerly Viettel Peru S.A.C.),4,False
+119,Peru,"Cuy Móvil [es] (using Claro)
+","5
+",True
+120,Puerto Rico and United States Virgin Islands,"Liberty[2](formerly AT&T)
+",1,False
+121,Puerto Rico and United States Virgin Islands,Claro,2,False
+122,Puerto Rico and United States Virgin Islands,T-Mobile•Includes Metro by T-Mobile•Includes the previous Sprint network,3,False
+123,Puerto Rico and United States Virgin Islands,TracFone Wireless,4,False
+124,Saint Kitts and Nevis,FLOW,1,False
+125,Saint Kitts and Nevis,Digicel,2,False
+126,Saint Lucia,FLOW,1,False
+127,Saint Lucia,Digicel,2,False
+128,Saint Vincent and the Grenadines,FLOW,1,False
+129,Saint Vincent and the Grenadines,Digicel,2,False
+130,Suriname,Telesur,1,False
+131,Suriname,Digicel,2,False
+132,Trinidad and Tobago,Digicel,1,False
+133,Trinidad and Tobago,bmobile,2,False
+134,Turks and Caicos Islands,Digicel,1,False
+135,Turks and Caicos Islands,FLOW (which acquired the assets of Islandcom Wireless),2,False
+136,United States,Verizon Includes Visible by Verizon,1,False
+137,United States,T-Mobile USIncludes Metro by T-Mobile,2,False
+138,United States,"AT&T MobilityIncludes Cricket Wireless
+",3,False
+139,United States,"Dish WirelessIncludes Boost Mobile
+",4,False
+140,United States,"U.S. Cellular
+",5,False
+141,Uruguay,Antel,1,False
+142,Uruguay,Movistar,2,False
+143,Uruguay,Claro,3,False
+144,Venezuela,Movilnet,1,False
+145,Venezuela,Movistar,2,False
+146,Venezuela,Digitel GSM,3,False
+0,Algeria,Mobilis,1,False
+1,Algeria,Djezzy,2,False
+2,Algeria,Ooredoo(formerly Nedjma),3,False
+3,Angola,Unitel,1,False
+4,Angola,Movicel,2,False
+5,Angola,Africell,3,False
+6,Bahrain,Batelco,1,False
+7,Bahrain,Zain(formerly MTC-Vodafone),2,False
+8,Bahrain,stc,3,False
+9,Benin,MTN,1,False
+10,Benin,Moov,2,False
+11,Benin,Glo,3,False
+12,Benin,Libercom,4,False
+13,Benin,BBcom,-,False
+14,Burkina Faso,Orange,1,False
+15,Burkina Faso,Telmob (Onatel),2,False
+16,Burkina Faso,Telecel Faso,3,False
+17,Burundi,Lumitel(Viettel Burundi S.A.),1,False
+18,Burundi,Econet Leo,2,False
+19,Burundi,ONAMOB,3,False
+20,Burundi,Smart Mobile(formerly Lacell),4,False
+21,Cabo Verde,CV Móvel,1,False
+22,Cabo Verde,T-MAIS,2,False
+23,Cameroon,MTN,1,False
+24,Cameroon,Orange,2,False
+25,Cameroon,Nexttel,3,False
+26,Cameroon,Camtel,4,False
+27,Cameroon,YooMee,5,False
+28,Central African Republic,telecel,1,False
+29,Central African Republic,Orange,2,False
+30,Central African Republic,azur,3,False
+31,Central African Republic,Moov Africa,4,False
+32,Chad,Moov,1,False
+33,Chad,Airtel,2,False
+34,Comoros,HURI,1,False
+35,Comoros,Telma,2,False
+36,Congo,MTN,1,False
+37,Congo,Airtel,2,False
+38,Congo,Azur,3,False
+39,Democratic Republic of the Congo,Vodacom,1,False
+40,Democratic Republic of the Congo,Orange,2,False
+41,Democratic Republic of the Congo,Africell,3,False
+42,Democratic Republic of the Congo,Airtel,4,False
+43,Democratic Republic of the Congo,Supercell,5,False
+44,Democratic Republic of the Congo,SemaTel,6,False
+45,Democratic Republic of the Congo,U-Com,7,False
+46,Democratic Republic of the Congo,Smile,-,False
+47,Djibouti,Evatis,1,False
+48,Egypt,Vodafone Egypt,1,False
+49,Egypt,Orange(formerly Mobinil),2,False
+50,Egypt,Etisalat,3,False
+51,Egypt,We (by Telecom Egypt),4,False
+52,Equatorial Guinea,Orange,1,False
+53,Equatorial Guinea,Muni,2,False
+54,Equatorial Guinea,Gecomsa,3,False
+55,Eritrea,Eritel,1,False
+56,Ethiopia,Ethiotelecom,1,False
+57,Ethiopia,"Safaricom Telecommunications Ethiopia
+","2
+",False
+58,Gabon,"Airtel(formerly Celtel, Zain)",1,False
+59,Gabon,Moov Africa Gabon Telecom,2,False
+60,Gambia,Africell,1,False
+61,Gambia,Comium,2,False
+62,Gambia,Gamcel,3,False
+63,Gambia,Qcell,4,False
+64,Ghana,MTN,1,False
+65,Ghana,Vodafone Ghana,2,False
+66,Ghana,AirtelTigo,3,False
+67,Ghana,Glo,4,False
+68,Guinea,Orange,1,False
+69,Guinea,MTN(formerly Areeba),2,False
+70,Guinea,Cellcom Guinée,3,False
+71,Guinea,Intercel,4,False
+72,Guinea,Sotelgui,5,False
+73,Guinea-Bissau,MTN,1,False
+74,Guinea-Bissau,Orange,2,False
+75,Guinea-Bissau,Guinetel,3,False
+76,Iran,Hamrahe Aval,1,False
+77,Iran,Irancell,2,False
+78,Iran,RighTel,3,False
+79,Iraq,Zain,1,False
+80,Iraq,Asia Cell,2,False
+81,Iraq,Korek,3,False
+82,Iraq,Omnnea,4,False
+83,Iraq,Itisaluna,5,False
+84,Israel,Cellcom,1,False
+85,Israel,Partner,2,False
+86,Israel,Pelephone,3,False
+87,Israel,Hot Mobile,4,False
+88,Israel,Golan Telecom,5,False
+89,Israel,XFONE,6,False
+90,Israel,Rami Levy(using Pelephone),7,False
+91,Israel,HomeCellular(using Cellcom),8,False
+92,Israel,019 Mobile(using Partner),9,False
+93,Israel,Cellact(using Pelephone),10,False
+94,Jordan,Zain Jordan,1,False
+95,Jordan,Orange Jordan,2,False
+96,Jordan,Umniah,3,False
+97,Kuwait,Zain,1,False
+98,Kuwait,Ooredoo(formerly Wataniya),2,False
+99,Kuwait,stc (formerly Viva Kuwait),3,False
+100,Lebanon,touch,1,False
+101,Lebanon,Alfa,2,False
+102,Lesotho,Vodacom,1,False
+103,Lesotho,Econet Telecom Lesotho,2,False
+104,Liberia,Lonestar Cell MTN,1,False
+105,Liberia,Orange,2,False
+106,Liberia,Novafone(formerly Comium),3,False
+107,Liberia,LTC Mobile,4,False
+108,Libya,Almadar Aljadid,1,False
+109,Libya,Libyana,2,False
+110,Madagascar,Airtel,1,False
+111,Madagascar,Telma Mobile,2,False
+112,Madagascar,Orange,3,False
+113,Madagascar,Blueline,4,False
+114,Malawi,Airtel(formerly Zain),1,False
+115,Malawi,TNM,2,False
+116,Malawi,MTL (Malawi Telecommunications Limited),3,False
+117,Malawi,Access,4,False
+118,Malawi,G-Mobile(license revoked [86]),5,False
+119,Malawi,Lacell,6,False
+120,Malawi,G-Expresso,7,False
+121,Mali,Orange[91],1,False
+122,Mali,Moov Africa Malitel[92],2,False
+123,Mali,Planor,3,False
+124,Mauritania,Moov Mauritel,1,False
+125,Mauritania,Chinguitel,2,False
+126,Mauritania,MATTEL,3,False
+127,Mauritius,Mauritius Telecom,1,False
+128,Mauritius,Emtel,2,False
+129,Mauritius,CHiLi,3,False
+130,Morocco,Maroc Telecom,1,False
+131,Morocco,Orange Morocco,2,False
+132,Morocco,inwi,3,False
+133,Mozambique,Tmcel,1,False
+134,Mozambique,Vodacom,2,False
+135,Mozambique,Movitel,3,False
+136,Namibia,MTC[104],1,False
+137,Namibia,"TN Mobile[105](formerly Cell One, Leo)",2,False
+138,Niger,Airtel,1,False
+139,Niger,Niger Telecoms,2,False
+140,Niger,Zamani Telecom,3,False
+141,Niger,Moov Africa Niger,4,False
+142,Nigeria,MTN,1,False
+143,Nigeria,Airtel(formerly Zain),2,False
+144,Nigeria,Glo Mobile,3,False
+145,Nigeria,9mobile (formerly Etisalat),4,False
+146,Oman,Omantel,1,False
+147,Oman,Ooredoo(formerly Nawras),2,False
+148,Palestine,Jawwal,1,False
+149,Palestine,Ooredoo,2,False
+150,Qatar,Ooredoo(formerly Qtel),1,False
+151,Qatar,Vodafone,2,False
+152,Rwanda,MTN Rwanda,1,False
+153,Rwanda,Airtel,2,False
+154,Rwanda,Rwandatel,-,False
+155,Saudi Arabia,stc,1,False
+156,Saudi Arabia,Mobily,2,False
+157,Saudi Arabia,Zain,3,False
+158,Saudi Arabia,Virgin mobile KSA,4,False
+159,Saudi Arabia,Lebara Mobile KSA,5,False
+160,Senegal,"Orange
+",1,False
+161,Senegal,Free,2,False
+162,Senegal,Expresso,3,False
+163,Senegal,Hayo Telecom,4,False
+164,Seychelles,Airtel,1,False
+165,Seychelles,Cable & Wireless,2,False
+166,Sierra Leone,Africell,1,False
+167,Sierra Leone,Orange,2,False
+168,Sierra Leone,Sierratel,3,False
+169,Sierra Leone,Qcell,4,False
+170,Sierra Leone,Comium,,False
+171,Sierra Leone,GreenN,,False
+172,Somalia,Hormuud,1,False
+173,Somalia,Telcom Somalia,2,False
+174,Somalia,Telesom Mobile,3,False
+175,Somalia,Nationlink,4,False
+176,Somalia,Somtel,5,False
+177,Somalia,Golis Telecom Somalia,6,False
+178,Somalia,Somafone,7,False
+179,Somalia,Netco,8,False
+180,Somalia,SomNet[140][141],9,False
+181,South Africa,Vodacom,1,False
+182,South Africa,MTN,2,False
+183,South Africa,Cell C,3,False
+184,South Africa,Telkom,4,False
+185,South Africa,"Rain
+","5
+",False
+186,South Sudan,MTN,1,False
+187,South Sudan,Zain,2,False
+188,South Sudan,Sudani,3,False
+189,South Sudan,Vivacell (NOW),4,False
+190,South Sudan,Gemtel,5,False
+191,Sudan,Zain,1,False
+192,Sudan,MTN,2,False
+193,Sudan,Sudani,3,False
+194,Sudan,Canar,4,False
+195,Eswatini,MTN,1,False
+196,Eswatini,"Eswatini Mobile
+","2
+",False
+197,Syrian Arab Republic,MTN(formerly Areeba),1,False
+198,Syrian Arab Republic,Syriatel,2,False
+199,Togo,Togocel,1,False
+200,Togo,Moov Africa Togo,2,False
+201,Tunisia,Ooredoo(formerly Tunisiana),1,False
+202,Tunisia,Tunisie Telecom,2,False
+203,Tunisia,Orange,3,False
+204,Turkey,Turkcell,1,False
+205,Turkey,Vodafone  (Formerly Telsim),2,False
+206,Turkey,"Türk Telekom  (Formerly Avea, Aria, Aycell)",3,False
+207,Uganda,MTN,1,False
+208,Uganda,Airtel Uganda,2,False
+209,Uganda,UT Mobile,3,False
+210,Uganda,SmileTelecom(Uganda),4,False
+211,United Arab Emirates,Etisalat,1,False
+212,United Arab Emirates,du,2,False
+213,United Arab Emirates,Virgin Mobile,3,False
+214,Yemen,Yemen Mobile,1,False
+215,Yemen,Sabafon,2,False
+216,Yemen,"YOU (formerly Spacetel, MTN)",3,False
+217,Yemen,Y Telecom (formerly HiTS-UNITEL),4,False
+218,Zambia,MTN,1,False
+219,Zambia,Airtel,2,False
+220,Zambia,Zamtel,3,False
+221,Zimbabwe,Econet,1,False
+222,Zimbabwe,telecel,2,False
+223,Zimbabwe,NetOne,3,False

@@ -2,3 +2,4 @@ satcat.csv
 fccreport.db
 elsat_omm.xml
 constellations/*.csv
+mlab_data_starlink*

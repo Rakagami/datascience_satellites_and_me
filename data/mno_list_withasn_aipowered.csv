@@ -80,30 +80,30 @@ Spain,Vodafone,AS12430,y,n
 Japan,NTT Docomo,AS9605,y,n
 Japan,KDDI,AS2516,y,n
 Japan,SoftBank,AS17676,y,n
-Czechia,T-Mobile,AS13036,n,n
-Czechia,Vodafone Czech Republic,AS16019,n,n
-Czechia,O2 Czech Republic,AS5588,n,n
-Greece,Cosmote,AS6799,n,n
-Greece,Vodafone Greece,AS3329,n,n
-Greece,Wind Hellas,AS1241,n,n
-Guadeloupe,Dauphin Telecom,???,n,y
-Guadeloupe,Digicel,???,n,y
-Guadeloupe,Orange Caraïbe,???,n,y
-Kenya,Safaricom,AS33771,n,n
-Kenya,Airtel Kenya,AS36991,n,n
-Kenya,Telkom Kenya,AS33768,n,n
-Martinique,Digicel,???,n,y
-Martinique,Orange Caraïbe,???,n,y
-Martinique,Dauphin Telecom,???,n,y
+Czechia,T-Mobile,AS5588,y,n
+Czechia,Vodafone Czech Republic,AS16019,y,n
+Czechia,O2 Czech Republic,AS5610,y,n
+Greece,Cosmote,AS29247,y,n
+Greece,Vodafone Greece,AS3329,y,n
+Greece,Forthnet GR,AS1241,y,n
+Guadeloupe,Dauphin Telecom,AS33392,n,y
+,,,,
+,,,,
+Kenya,Safaricom,AS33771,y,n
+Kenya,Airtel Kenya,AS36926,y,n
+Kenya,Telkom Kenya,AS12455,y,n
+,,,,
+,,,,
+,,,,
 ,,,,
 Mozambique,mCel,AS36945,y,n
-Mozambique,Movitel,AS37342,n,n
-Poland,Orange Polska,AS5617,n,n
-Poland,T-Mobile Poland,AS6830,n,n
-Poland,Play,AS47244,n,n
-Saint Barthélemy,Dauphin Telecom,???,n,y
-Saint Barthélemy,Orange Caraïbe,???,n,y
-Saint Barthélemy,Digicel,???,n,y
-Sweden,Telia Company,AS3301,n,n
-Sweden,Tele2 Sweden,AS1257,n,n
-Sweden,Telenor Sweden,AS2119,n,n
+Mozambique,Movitel,AS37342,y,n
+Poland,Orange Polska,AS5617,y,n
+Poland,T-Mobile Poland,AS12912,y,n
+,,,,
+,,,,
+,,,,
+,,,,
+Sweden,Telia Company,AS3301,y,n
+Sweden,Tele2 Sweden,AS1257,y,n
+Sweden,Telenor Sweden,AS8642,y,n
